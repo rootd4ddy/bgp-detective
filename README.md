@@ -13,7 +13,7 @@ To use BGP Detective, you'll need Rust installed on your system. Follow these st
 
 
 1. Clone the repository: 
-```git clone https://github.com/yourusername/bgp-detective.git && cd bgp-detective```
+```git clone https://github.com/rootd4ddy/bgp-detective.git && cd bgp-detective```
 
 2. Build the project. 
 ```cargo build --release```
